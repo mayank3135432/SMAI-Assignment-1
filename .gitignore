@@ -1,5 +1,7 @@
 # ignore virtual environment
-
+SMAI_A1/*.pth
+SMAI_A1/*.py
+SMAI_A1/*.ipynb
 smai_as1_venv/
 
 # Byte-compiled / optimized / DLL files
